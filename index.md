@@ -35,7 +35,7 @@ page_sections:
   image:
     image: "/uploads/snapfigs-2.png"
     alt_text: Product Shot
-  background_image: ''
+  background_image: "/uploads/untitled-design-4.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
