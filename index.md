@@ -5,7 +5,7 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/sf11.png"
+  logo: https://snapfigs.s3.us-east-2.amazonaws.com/sf11.png
   navigation:
   - link: "/"
     link_text: Home
