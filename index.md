@@ -28,12 +28,12 @@ page_sections:
     content manager.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: https://t.co/azOOQe1yC8?amp=1
+    button_text: Get on the mailing list!
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
-  background_image: "/sf11.png"
+  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
