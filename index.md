@@ -23,7 +23,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: snapfigs<br><strong>what will you do with them?</strong>
+  headline: snapfigs<br><strong>what will you do with them??</strong>
   content: You've never had this level of control over a toy's distribution. SnapFigs
     will unite NFTs and real-world collectibles in a truly unique user experience.
     Series 1 is on track for release sometime this summer. Our mailing list is the
