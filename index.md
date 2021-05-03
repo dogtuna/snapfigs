@@ -23,15 +23,17 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: snapfigs<br><strong>what will you do with them?</strong>
+  content: You've never had this level of control over a toy's distribution. SnapFigs
+    will unite NFTs and real-world collectibles in a truly unique user experience.
+    Series 1 is on track for release sometime this summer. Our mailing list is the
+    best way to keep up with our initial release.
   cta:
     enabled: true
     url: https://t.co/azOOQe1yC8?amp=1
     button_text: Get on the mailing list!
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/snapfigs-2.png"
     alt_text: Product Shot
   background_image: ''
 - template: content-feature
