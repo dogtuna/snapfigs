@@ -40,3 +40,10 @@ fields:
   - type: text
     name: button_text
     label: Button Text
+  - name: button_color
+    type: color
+    label: button color
+    config:
+      required: false
+      color_format: Hex
+    description: choose the button color
