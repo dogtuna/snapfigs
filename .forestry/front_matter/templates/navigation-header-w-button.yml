@@ -10,6 +10,14 @@ fields:
 - type: file
   name: logo
   label: Logo
+- name: bg_color
+  type: color
+  label: bg color
+  config:
+    required: false
+    color_format: Hex
+  description: pick the background color
+  default: "#000000"
 - type: field_group_list
   name: navigation
   label: Navigation
