@@ -21,8 +21,8 @@ sections:
 - type: document
   path: _config.yml
   label: Config
-upload_dir: ''
-public_path: https://snapfigs.s3.us-east-2.amazonaws.com
+upload_dir: uploads
+public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
