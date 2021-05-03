@@ -20,6 +20,7 @@ page_sections:
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Import
+  bg_color: "#000000"
 - template: hero-banner-w-image
   block: hero-2
   slug: features
