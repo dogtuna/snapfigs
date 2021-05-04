@@ -28,8 +28,8 @@ page_sections:
     url: https://t.co/azOOQe1yC8?amp=1
     button_text: Get on the mailing list!
   image:
-    image: "/uploads/snapfigs-2.png"
-    alt_text: Product Shot
+    image: "/uploads/snapfigs-4.png"
+    alt_text: Snapfigs - Collect. Swap. Snap. Control.
   background_image: "/uploads/copy-of-untitled-26.png"
 - template: simple-footer
   block: footer-1
