@@ -7,10 +7,10 @@ page_sections:
   block: header-2
   logo: "/uploads/sf_logo_yellow.png"
   navigation:
-  - link: "/updates.md"
-    link_text: Updates
   - link: "/"
     link_text: Home
+  - link: "/updates.md"
+    link_text: Updates
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Import
