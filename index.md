@@ -26,10 +26,11 @@ page_sections:
   block: hero-2
   slug: features
   headline: snapfigs<br><strong>what will you do with them?</strong>
-  content: You've never had this level of control over a toy's distribution. SnapFigs
-    will unite NFTs and real-world collectibles in a truly unique user experience.
-    Series 1 is on track for release sometime this summer. Our mailing list is the
-    best way to keep up with our initial release.
+  content: Horde them? Mass produce them? SnapFigs will unite NFTs and real-world
+    collectibles in a truly unique user experience where each owner has a say in the
+    rarity of their items. <br><br>Series 1 is on track for release sometime this
+    summer. Our mailing list is the best way to keep up with the details of this initial
+    release.
   cta:
     enabled: true
     url: https://t.co/azOOQe1yC8?amp=1
