@@ -3,19 +3,9 @@ layout: blocks
 title: SnapFigs
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
-- template: navigation-header-w-button
-  block: header-2
+- template: simple-header
+  block: header-3
   logo: "/uploads/sf_logo_yellow.png"
-  navigation:
-  - link: "/"
-    link_text: Home
-  - link: updates.md
-    link_text: Updates
-  cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
-    button_color: ''
-  bg_color: "#000000"
 - template: hero-banner-w-image
   block: hero-2
   slug: features
