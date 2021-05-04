@@ -39,17 +39,6 @@ page_sections:
     image: "/uploads/snapfigs-2.png"
     alt_text: Product Shot
   background_image: "/uploads/copy-of-untitled-26.png"
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  slug: swap
-  headline: <strong>Swap &amp; Switch<span class="light"> </span></strong><span class="light">fig
-    parts to create your very own snapfigs</span>
-  content: Assemble and create custom minifigs from the parts you unlock and purchase
-    via random NFT packs
-  media:
-    image: "/uploads/snapfigs-3.png"
-    alt_text: uBuild Blocks Mock-Up
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in the USA
