@@ -7,6 +7,8 @@ page_sections:
   block: header-2
   logo: "/uploads/sf_logo_yellow.png"
   navigation:
+  - link: "/updates.md"
+    link_text: Updates
   - link: "/"
     link_text: Home
   cta:
