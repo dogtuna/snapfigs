@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "/updates.md"
+  - link: updates.md
     link_text: Updates
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
